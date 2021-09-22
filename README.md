@@ -1,4 +1,8 @@
-### aboutMe.js
+<a href="theiiiproject.firebaseapp.com">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheIIISociety&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
+</a>
+
+## AboutMe.js
 
 ```javascript
 const ray = {
@@ -16,5 +20,10 @@ const ray = {
     }
 };
 ```
+##
+
+<p align="center">
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+</p>
+
 
