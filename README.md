@@ -1,4 +1,4 @@
-<img align="center" src="https://k1rby.herokuapp.com/">
+<img align="center" src="https://k1rby.herokuapp.com/" title="banner" alt"Refresh if you see this">
 <a href="https://theiiiproject.firebaseapp.com">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=1rb&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
 </a> 
