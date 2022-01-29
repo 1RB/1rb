@@ -1,7 +1,7 @@
 <svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-  <div xmlns="http://www.w3.org/1999/xhtml">
-    <foreignObject width="100%" height="100%">
-      <style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+          <style>
         .images {
           width: "70%";
           margin: auto;
@@ -16,6 +16,6 @@
        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="70" height="70" alt="HTML logo" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="70" height="70" alt="HTML logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </div>
-    </foreignObject>
-  </div>
+     </div>
+  </foreignObject>
 </svg>
