@@ -2,21 +2,21 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <div class="images">
-                <img href="./nodejs-icon.svg" />
+                <image href="./nodejs-icon.svg" />
                     
-                <img href="./JavaScript_logo_2.svg" />
+                <image href="./JavaScript_logo_2.svg" />
                   
-                <img href="./Visual_Studio_Code_1.35_icon.svg" />
+                <image href="./Visual_Studio_Code_1.35_icon.svg" />
                     
-                <img href="./firebase-1.svg" />
+                <image href="./firebase-1.svg" />
                     
-                <img href="./mongodb-icon-1.svg" /> 
+                <image href="./mongodb-icon-1.svg" /> 
                     
-                <img href="./html-1.svg" />
+                <image href="./html-1.svg" />
             </div>
     
             <style>
-                img {
+                image {
                     margin: 10px;
                     height: 70px;
                     width: 70px;
