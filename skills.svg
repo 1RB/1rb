@@ -10,7 +10,7 @@
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <div class="images">
                     <a href="https://nodejs.org">
-                        <img src="./images/nodejs-icon.svg" alt="NodeJS logo" />
+                        <img src="https://raw.githubusercontent.com/1RB/1rb/main/images/nodejs-icon.svg" alt="NodeJS logo" />
                     </a>
 
                     <a href="https://www.javascript.com">
