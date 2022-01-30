@@ -5,9 +5,14 @@
 <a href="https:theiiiproject.firebaseapp.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inimicalpart&theme=github_dark&hide_border=true&include_all_commits=true">
 </a>
-
-<img align="center" src="./skills.svg" />
-
+<p align="center">
+    <a href="https://nodejs.org"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="90" height="90" alt="NodeJS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.javascript.com"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="90" height="90" alt="JavaScript logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="90" height="90" alt="VSCode logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://firebase.com"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="90" height="90" alt="Firebase logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href="https://mongodb.com"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="90" height="90" alt="MongoDB logo" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="90" height="90" alt="HTML logo" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
     
 ## AboutMe.js
 
