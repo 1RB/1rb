@@ -2,17 +2,17 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <div class="images">
-                <image width="70" height="70" src="./nodejs-icon.svg" />
+                <use href="./nodejs-icon.svg" />
                     
-                <image width="70" height="70" src="./JavaScript_logo_2.svg" />
+                <use href="./JavaScript_logo_2.svg" />
                   
-                <image width="70" height="70" src="./Visual_Studio_Code_1.35_icon.svg" />
+                <use href="./Visual_Studio_Code_1.35_icon.svg" />
                     
-                <image width="70" height="70" src="./firebase-1.svg" />
+                <use href="./firebase-1.svg" />
                     
-                <image width="70" height="70" src="./mongodb-icon-1.svg" /> 
+                <use href="./mongodb-icon-1.svg" /> 
                     
-                <image width="70" height="70" src="./html-1.svg" />
+                <use href="./html-1.svg" />
             </div>
     
             <style>
