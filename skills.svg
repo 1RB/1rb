@@ -18,6 +18,8 @@
             <style>
                 image {
                     margin: 10px;
+                    height: 70px;
+                    width: 70px;
                 }
     
                 .images {
