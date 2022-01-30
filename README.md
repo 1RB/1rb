@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inimicalpart&theme=github_dark&hide_border=true&include_all_commits=true">
 </a>
 
-<img src="https://raw.githubusercontent.com/1RB/1rb/main/test.svg?sanitize=true" />
+<img src="https://raw.githubusercontent.com/1RB/1rb/main/skills.svg?sanitize=true" />
 
     
 ## AboutMe.js
