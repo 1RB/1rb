@@ -4,15 +4,15 @@
             <div class="images">
                 <img src="./nodejs-icon.svg" />
                     
-                <img src="./JavaScript_logo_2.svg" alt="JavaScript logo" />
+                <img src="./JavaScript_logo_2.svg" />
                   
-                <img src="./Visual_Studio_Code_1.35_icon.svg" alt="VSCode logo" />
+                <img src="./Visual_Studio_Code_1.35_icon.svg" />
                     
-                <img src="./firebase-1.svg" alt="Firebase logo" />
+                <img src="./firebase-1.svg" />
                     
-                <img src="./mongodb-icon-1.svg" alt="MongoDB logo" /> 
+                <img src="./mongodb-icon-1.svg" /> 
                     
-                <img src="./html-1.svg" alt="HTML logo" />
+                <img src="./html-1.svg" />
             </div>
     
             <style>
