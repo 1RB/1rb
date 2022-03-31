@@ -14,7 +14,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="90" height="90" alt="HTML logo" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/516333697163853828)](https://discord.com/users/516333697163853828)
     
 ## AboutMe.js
 
@@ -34,6 +33,8 @@ const ray = {
     }
 };
 ```
+[![Discord Presence](https://lanyard.cnrad.dev/api/516333697163853828)](https://discord.com/users/516333697163853828)
+
 ##
 
 
