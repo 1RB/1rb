@@ -19,7 +19,7 @@
 
 ```javascript
 const ray = {
-    pronouns: "she | her",
+    pronouns: "she" || "her",
     code: ["Javascript", "HTML", "CSS"],
     askMeAbout: ["web development", "photography", "games", "music", "life"],
     technologies: {
