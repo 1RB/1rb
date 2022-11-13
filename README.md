@@ -12,6 +12,10 @@
     <a href="https://firebase.com"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="90" height="90" alt="Firebase logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="https://mongodb.com"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="90" height="90" alt="MongoDB logo" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="90" height="90" alt="HTML logo" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://reactjs.org"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="90" height="90" alt="React logo" /> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://nextjs.org"><img src="https://svgshare.com/i/o0t.svg" width="90" height="90" alt="Nextjs logo" /> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
     
@@ -20,7 +24,7 @@
 ```javascript
 const ray = {
     pronouns: "she" || "her",
-    code: ["Javascript", "HTML", "CSS"],
+    code: ["Javascript", "HTML", "CSS", "React"],
     askMeAbout: ["web development", "photography", "games", "music", "life"],
     technologies: {
         frontEnd: {
