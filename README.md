@@ -2,9 +2,10 @@
 <a href="https://theiiiproject.firebaseapp.com">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=1rb&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
 </a> 
-<a href="https:theiiiproject.firebaseapp.com">
+<a href="https://theiiiproject.firebaseapp.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rb&theme=github_dark&hide_border=true&include_all_commits=true">
 </a>
+
 <p align="center">
     <a href="https://nodejs.org"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="90" height="90" alt="NodeJS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.javascript.com"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="90" height="90" alt="JavaScript logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,28 +21,28 @@
 
     
 ## AboutMe.js
+![image](https://user-images.githubusercontent.com/86501179/202479987-81cd9ea4-a35e-44b3-90f0-f50768668dab.png)
 
-```javascript
-const ray = {
-    pronouns: "she" || "her",
-    code: ["Javascript", "HTML", "CSS", "React"],
-    askMeAbout: ["web development", "photography", "games", "music", "life"],
-    technologies: {
-        frontEnd: {
-            css: ["materialize", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "firebase"]
-        },
-        databases: ["mongoDB"],
-    }
-};
-```
-[![Discord Presence](https://lanyard.cnrad.dev/api/516333697163853828?idleMessage=Probably%20at%20school...)](https://discord.com/users/516333697163853828) 
+<p align="center">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/516333697163853828?idleMessage=Probably%20at%20school...)](https://discord.com/users/516333697163853828)
+
+</p>
+
+
+
+### More Stats
 ![](https://komarev.com/ghpvc/?username=1rb)
 
-##
+<a href="https://github.com/1RB">
+  <img align"center" src="https://streak-stats.demolab.com?user=1rb&theme=github-dark&hide_border=true&border_radius=16">
+</a>
 
+<a href="https://github.com/1RB">
+  <img align"center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1rb&theme=github_dark">
+</a>
 
+<a href="https://github.com/1RB">
+  <img align"center" src="https://activity-graph.herokuapp.com/graph?username=1rb&theme=github-dark">
+</a>
 
