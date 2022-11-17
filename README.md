@@ -38,11 +38,4 @@
   <img align"center" src="https://streak-stats.demolab.com?user=1rb&theme=github-dark&hide_border=true&border_radius=16">
 </a>
 
-<a href="https://github.com/1RB">
-  <img align"center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1rb&theme=github_dark">
-</a>
-
-<a href="https://github.com/1RB">
-  <img align"center" src="https://activity-graph.herokuapp.com/graph?username=1rb&theme=github-dark">
-</a>
-
+![Metrics](https://metrics.lecoq.io/1rb?template=classic&isocalendar=1&languages=1&introduction=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&config.timezone=CEST)
