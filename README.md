@@ -28,7 +28,7 @@
 ![](https://komarev.com/ghpvc/?username=1rb)
 
 <a href="https://github.com/1RB">
-  <img align="center" src="https://streak-stats.demolab.com?user=1rb&theme=github-dark&hide_border=true&border_radius=16">
+  <img align="center" src="https://streak-stats.demolab.com?user=1RB&theme=github-dark&hide_border=true&ring=4C8EDA&fire=DD7A22&dates=4C8EDA">
 </a>
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
