@@ -14,7 +14,24 @@
 
     
 ## AboutMe.js
-![image](https://user-images.githubusercontent.com/86501179/202479987-81cd9ea4-a35e-44b3-90f0-f50768668dab.png)
+![image](https://user-images.githubusercontent.com/86501179/212556180-7094677b-2038-413d-80e5-32e4493b68b4.png)
+
+<!-- 
+![image](https://user-images.githubusercontent.com/86501179/202479987-81cd9ea4-a35e-44b3-90f0-f50768668dab.png) 
+const ray = {
+  code: ["Javascript", "HTML", "CSS", "React"],
+  askMeAbout: ["web development", "photography", "games", "music", "life"],
+  technologies: {
+    frontEnd: {
+      css: ["materialize", "bootstrap", "tailwindcss"],
+    },
+    backEnd: {
+      js: ["nodejs", "firebase", "nextjs"],
+    },
+    databases: ["mongoDB"],
+  },
+};
+-->
 
 <p align="center">
 
