@@ -37,7 +37,9 @@ const ray = {
 [![Discord Presence](https://lanyard.cnrad.dev/api/516333697163853828?idleMessage=Probably%20at%20school...)](https://discord.com/users/516333697163853828)
 -->
 
-<img src="https://komarev.com/ghpvc/?username=1rb" />
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=1rb" />
+</p>
 
 <details>
 <summary>More Stats...</summary>
