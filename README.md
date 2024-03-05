@@ -7,15 +7,16 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1rb&theme=github_dark&hide_border=true&include_all_commits=true">
 </a>-->
 
-<div align="center" style="dislay: flex; align-items: center;">
-    <img src="https://lanyard.cnrad.dev/api/516333697163853828?idleMessage=Probably%20at%20school..." />
-</div>
 
     
 ## Tech Stack
 
 <div align="center" style="dislay: flex; align-items: center;">
     <img src="https://skillicons.dev/icons?i=nodejs,js,vscode,mongodb,html,css,react,nextjs,firebase,vercel,tailwind,discord,github,figma,md,xd&theme=dark&perline=8" />
+</div>
+<hr/>
+<div align="center" style="dislay: flex; align-items: center;">
+    <img src="https://lanyard.cnrad.dev/api/516333697163853828?idleMessage=Probably%20at%20school..." />
 </div>
 
 <!-- 
