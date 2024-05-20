@@ -45,7 +45,7 @@ const ray = {
 <details>
 <summary>More Stats...</summary>
     <a href="https://monkeytype.com/profile/IssRay">
-        <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+        <img src="https://raw.githubusercontent.com/1rb/1rb/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
     </a>
     <p align="center">
         <a href="https://github.com/1RB">
