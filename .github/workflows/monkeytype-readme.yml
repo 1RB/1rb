@@ -3,7 +3,6 @@ name: generate monkeytype readme svg
 on:
     schedule:
         - cron: "0 */24 * * *"
-    workflow_dispatch:
 
 jobs:
     download-svg:
@@ -21,10 +20,10 @@ jobs:
               run: |
                 mkdir -p monkeytype-readme-svg
                 mkdir public
-                curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/IssRay/dark
-                curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/IssRay/dark?lb=true
-                curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/IssRay/dark?pb=true
-                curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/IssRay/dark?lbpb=true
+                curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/IssRay/terminal
+                curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/IssRay/terminal?lb=true
+                curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/IssRay/terminal?pb=true
+                curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/IssRay/terminal?lbpb=true
 
             - name: push monkeytype-readme.svg to the monkeytype-readme branch
               uses: crazy-max/ghaction-github-pages@v4.0.0
