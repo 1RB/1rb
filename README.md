@@ -52,7 +52,5 @@ const ray = {
             <img align="center" src="https://streak-stats.demolab.com?user=1RB&theme=github-dark&hide_border=true&ring=4C8EDA&fire=DD7A22&dates=4C8EDA">
         </a>
     </p>
-    <p align="center">
-        <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-    </p>
-</details
+<!--     <p align="center"><img src="https://metrics.lecoq.io/1rb?template=classic&languages=1&habits=1&notable=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&fortune=false&config.timezone=Africa%2FAddis_Ababa" alt="github metrics"></p> -->
+</details>
