@@ -20,6 +20,7 @@ jobs:
             - name: Download SVG
               run: |
                 mkdir public
+                mkdir -p monkeytype-readme-svg
                 curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/IssRay/dark
                 curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/IssRay/dark?lb=true
                 curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/IssRay/dark?pb=true
