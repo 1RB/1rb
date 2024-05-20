@@ -44,10 +44,12 @@ const ray = {
 
 <details>
 <summary>More Stats...</summary>
-    <a href="https://monkeytype.com/profile/IssRay">
-        <img src="https://raw.githubusercontent.com/1rb/1rb/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-    </a>
     <p align="center">
+    <a href="https://monkeytype.com/profile/IssRay">
+        <img src="https://raw.githubusercontent.com/1rb/1rb/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
+    </a>
+    </p>
+        <p align="center">
         <a href="https://github.com/1RB">
             <img align="center" src="https://streak-stats.demolab.com?user=1RB&theme=github-dark&hide_border=true&ring=4C8EDA&fire=DD7A22&dates=4C8EDA">
         </a>
