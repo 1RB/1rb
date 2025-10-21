@@ -16,7 +16,7 @@
 </div>
 <hr/>
 <div align="center" style="dislay: flex; align-items: center;">
-    <img src="https://lanyard.cnrad.dev/api/516333697163853828?idleMessage=Probably%20at%20school..." />
+    <img src="https://lanyard.cnrad.dev/api/516333697163853828?idleMessage=Probably%20sleeping...&hideProfile=true" />
 </div>
 
 <!-- 
